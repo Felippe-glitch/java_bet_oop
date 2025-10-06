@@ -1,0 +1,9 @@
+org\example\POOBet\Models\Credito.class
+org\example\POOBet\Sistema.class
+org\example\POOBet\Models\Jogo.class
+org\example\POOBet\Models\Jogador.class
+org\example\POOBet\Services\ApostaService.class
+module-info.class
+org\example\POOBet\Services\JogadorService.class
+org\example\POOBet\Services\JogoService.class
+org\example\POOBet\Models\Aposta.class
